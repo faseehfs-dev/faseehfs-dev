@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Visit my website: <https://faseehfs-dev.github.io>
+Visit my website: <https://effessdev.github.io>
 
 <!--
 **faseehfs-dev/faseehfs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
